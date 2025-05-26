@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Archishman 👋</h1>
+<h1 align="center">Hi there, I'm Archishman</h1>
 
 <p align="center">
   <em>Backend Developer • Competitive Programmer</em>
@@ -11,12 +11,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🧠 I love building **modular backend systems** with a focus on performance and clarity.
-- ♟️ Creator of **[IntelliChess](https://github.com/archishmannag/IntelliChess)** – a custom chess engine.
-- 📚 Currently diving into **Audio development** and **RAG architectures**.
-- 🔧 Languages & Tools:
+-  I love building **modular backend systems** with a focus on performance and clarity.
+-  Creator of **[IntelliChess](https://github.com/archishmannag/IntelliChess)** – a custom chess engine.
+-  Currently diving into **Audio development** and **RAG architectures**.
+-  Languages & Tools:
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Drogon](https://img.shields.io/badge/Drogon-007ACC?style=flat&logo=dragon&logoColor=white)
@@ -25,20 +25,20 @@
 
 ---
 
-### 🔥 Projects
+###  Projects
 
-- 🎯 **[IntelliChess](https://github.com/archishmannag/IntelliChess)**  
+-  **[IntelliChess](https://github.com/archishmannag/IntelliChess)**  
   A fast, modular chess engine built from scratch in C++ with performance in mind.
 
-- 🚀 **RAG Backend** *(Private / In progress)*  
+-  **RAG Backend** *(Private / In progress)*  
   A vector search + Retrieval Augmented Generation system for parsing complex PDFs and answering domain-specific queries.
 
-- 🔊 **Audio Visualizer** *(Coming soon)*  
+-  **Audio Visualizer** *(Coming soon)*  
   A lightweight audio visualizer with tools to add audio effects.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=archishmannag&show_icons=true&theme=tokyonight" width="45%" />
