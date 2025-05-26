@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Archishman 👋</h1>
 
 <p align="center">
-  <em>Backend Developer • Competitive Programmer • Chess Engine Creator</em>
+  <em>Backend Developer • Competitive Programmer</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/archishmannag"><img src="https://img.shields.io/github/followers/archishmannag?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="https://linkedin.com/in/archishmannag"><img src="https://img.shields.io/badge/LinkedIn-archishmannag-blue?logo=linkedin&style=flat" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nagarchishman"><img src="https://img.shields.io/badge/LinkedIn-nagarchishman-blue?logo=linkedin&style=flat" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -15,14 +15,13 @@
 
 - 🧠 I love building **modular backend systems** with a focus on performance and clarity.
 - ♟️ Creator of **[IntelliChess](https://github.com/archishmannag/IntelliChess)** – a custom chess engine.
-- 📚 Currently diving into **Natural Language Processing** and **RAG architectures**.
+- 📚 Currently diving into **Audio development** and **RAG architectures**.
 - 🔧 Languages & Tools:
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Drogon](https://img.shields.io/badge/Drogon-007ACC?style=flat&logo=dragon&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
 ---
 
@@ -34,8 +33,8 @@
 - 🚀 **RAG Backend** *(Private / In progress)*  
   A vector search + Retrieval Augmented Generation system for parsing complex PDFs and answering domain-specific queries.
 
-- 🧠 **NLP Hackathon Toolkit** *(Coming soon)*  
-  Light-weight NLP tools optimized for hackathon use with fast iteration cycles.
+- 🔊 **Audio Visualizer** *(Coming soon)*  
+  A lightweight audio visualizer with tools to add audio effects.
 
 ---
 
@@ -50,9 +49,8 @@
 
 ### 💬 Let's Connect
 
-- 📧 Email: archishmannag@gmail.com  
-- 🧠 Codeforces: [archishmannag](https://codeforces.com/profile/archishmannag)  
-- 🔗 LinkedIn: [linkedin.com/in/archishmannag](https://linkedin.com/in/archishmannag)
+- 📧 Email: nag.archishman@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/nagarchishman](https://linkedin.com/in/nagarchishman)
 
 ---
 
