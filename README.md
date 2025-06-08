@@ -19,7 +19,7 @@
 -  Languages & Tools:
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  [![Conan Center](https://img.shields.io/conan/v/drogon)](https://conan.io/center/recipes/drogon)
+  [![Drogon](https://img.shields.io/conan/v/drogon)](https://conan.io/center/recipes/drogon)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
