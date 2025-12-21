@@ -33,7 +33,7 @@
 -  **RAG Backend** *(Private / In progress)*  
   A vector search + Retrieval Augmented Generation system for parsing complex PDFs and answering domain-specific queries.
 
--  **Audio Visualizer** *(Coming soon)*  
+-  **[Spectra](https://github.com/archishmannag/Spectra)**
   A lightweight audio visualizer with tools to add audio effects.
 
 ---
@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=archishmannag&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archishmannag&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=archishmannag&theme=tokyonight" width="45%" />
 </p>
 
 ---
@@ -53,8 +53,6 @@
 - 🔗 LinkedIn: [linkedin.com/in/nagarchishman](https://linkedin.com/in/nagarchishman)
 
 ---
-
-> _“Build. Break. Learn. Repeat.”_ 🛠️
 
 <!--
 **archishmannag/archishmannag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
